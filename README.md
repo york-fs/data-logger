@@ -1,4 +1,4 @@
-**# York FS Data-Logger
+# York FS Data-Logger
 This is a custom PCB data-logger designed to work on our Formula Student car. It captures data from the vehicle's CAN bus, transmits telemetry, and logs to an SD card. Additionally, the data logger stores configuration information on EEPROM. 
 
 ## Key Features
