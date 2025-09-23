@@ -13,3 +13,5 @@ This is a custom PCB data-logger designed to work on our Formula Student car. It
 ## PCB Notes
 - Designed in KiCad 9.0
 - 3D models stored in external library (lib)
+
+<img width="1427" height="1072" alt="data_logger" src="https://github.com/user-attachments/assets/ec11ed2e-b2d6-4099-8221-15da9a07eebd" />
