@@ -8,7 +8,7 @@ This is a custom PCB data-logger designed to work on our Formula Student car. It
 - **Real-time clock (RTC)** with battery backup for accurate timestamps  
 - **USB interface** for configuration and file transfer  
 - **UART output** to a SiK telemetry radio for live data streaming  
-- **Status LEDs** for logging, USB power, and telemetry status**
+- **Status LEDs** for logging, USB power, and telemetry status
 
 ## PCB Notes
 - Designed in KiCad 9.0
